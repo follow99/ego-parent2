@@ -1,4 +1,4 @@
 # ego-parent2
 
-Start of e-commerce project since 03/may/2017<br>
+Start a e-commerce project since 03/05/2017<br>
 and will keep working on it for next few weeks
