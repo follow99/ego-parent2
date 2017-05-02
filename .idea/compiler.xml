@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ego-common" />
+        <module name="ego-manger-pojo" />
+        <module name="ego-manger-service" />
+        <module name="ego-manger-web" />
+        <module name="egomangermapper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="ego-common" target="1.8" />
+      <module name="ego-manger" target="1.8" />
+      <module name="ego-manger-pojo" target="1.8" />
+      <module name="ego-manger-service" target="1.8" />
+      <module name="ego-manger-web" target="1.8" />
+      <module name="ego-parent2" target="1.8" />
+      <module name="egomangermapper" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

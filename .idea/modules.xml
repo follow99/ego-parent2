@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ego-common/ego-common.iml" filepath="$PROJECT_DIR$/ego-common/ego-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manger/ego-manger.iml" filepath="$PROJECT_DIR$/ego-manger/ego-manger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manger/ego-manger-pojo/ego-manger-pojo.iml" filepath="$PROJECT_DIR$/ego-manger/ego-manger-pojo/ego-manger-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manger/ego-manger-service/ego-manger-service.iml" filepath="$PROJECT_DIR$/ego-manger/ego-manger-service/ego-manger-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manger/ego-manger-web/ego-manger-web.iml" filepath="$PROJECT_DIR$/ego-manger/ego-manger-web/ego-manger-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-parent2.iml" filepath="$PROJECT_DIR$/ego-parent2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manger/egomangermapper/egomangermapper.iml" filepath="$PROJECT_DIR$/ego-manger/egomangermapper/egomangermapper.iml" />
+    </modules>
+  </component>
+</project>
